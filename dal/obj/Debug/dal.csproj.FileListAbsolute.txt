@@ -1,0 +1,9 @@
+D:\Dot.Net\ASP.Net\dal\bin\Debug\dal.dll
+D:\Dot.Net\ASP.Net\dal\bin\Debug\dal.pdb
+D:\Dot.Net\ASP.Net\dal\bin\Debug\bo.dll
+D:\Dot.Net\ASP.Net\dal\bin\Debug\bo.pdb
+D:\Dot.Net\ASP.Net\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+D:\Dot.Net\ASP.Net\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+D:\Dot.Net\ASP.Net\dal\obj\Debug\dal.csproj.CopyComplete
+D:\Dot.Net\ASP.Net\dal\obj\Debug\dal.dll
+D:\Dot.Net\ASP.Net\dal\obj\Debug\dal.pdb

@@ -1,0 +1,11 @@
+D:\Dot.Net\ASP.Net\bll\bin\Debug\bll.dll
+D:\Dot.Net\ASP.Net\bll\bin\Debug\bll.pdb
+D:\Dot.Net\ASP.Net\bll\bin\Debug\bo.dll
+D:\Dot.Net\ASP.Net\bll\bin\Debug\dal.dll
+D:\Dot.Net\ASP.Net\bll\bin\Debug\bo.pdb
+D:\Dot.Net\ASP.Net\bll\bin\Debug\dal.pdb
+D:\Dot.Net\ASP.Net\bll\obj\Debug\bll.csproj.AssemblyReference.cache
+D:\Dot.Net\ASP.Net\bll\obj\Debug\bll.csproj.CoreCompileInputs.cache
+D:\Dot.Net\ASP.Net\bll\obj\Debug\bll.csproj.CopyComplete
+D:\Dot.Net\ASP.Net\bll\obj\Debug\bll.dll
+D:\Dot.Net\ASP.Net\bll\obj\Debug\bll.pdb

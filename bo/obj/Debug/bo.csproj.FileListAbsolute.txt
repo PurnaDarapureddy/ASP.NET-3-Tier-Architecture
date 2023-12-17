@@ -1,0 +1,6 @@
+D:\Dot.Net\ASP.Net\bo\bin\Debug\bo.dll
+D:\Dot.Net\ASP.Net\bo\bin\Debug\bo.pdb
+D:\Dot.Net\ASP.Net\bo\obj\Debug\bo.csproj.AssemblyReference.cache
+D:\Dot.Net\ASP.Net\bo\obj\Debug\bo.csproj.CoreCompileInputs.cache
+D:\Dot.Net\ASP.Net\bo\obj\Debug\bo.dll
+D:\Dot.Net\ASP.Net\bo\obj\Debug\bo.pdb
